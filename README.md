@@ -27,7 +27,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This project uses OMDB API for fetching movies, filter them by name, year of release
 According to the API capabilities, this project has a search by seasons, movies, and franchises, with the ability to filter search results, sort by title or year of release.
 
-![Search screen](https://i.imgur.com/xIVPbZR.png)
+![Search screen](https://i.imgur.com/gTmVOgI.png)
 
 Search results contain brief information about the movie or series. All items paginated. Each pagination page is stored in memory to speed up interaction. 
 
